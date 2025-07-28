@@ -1,8 +1,4 @@
-# 🔐 Cybersecurity Notes - Christ University (SEM 3)
 
-This repository contains structured notes based on the Cybersecurity lectures from Semester 3 at Christ University. Topics include basic malware analysis, setting up a pentesting environment, using hacking frameworks like Villain, Linux basics, and more.
-
----
 
 ## 🛠️ Mini Project Ideas
 
