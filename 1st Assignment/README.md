@@ -26,7 +26,7 @@ To assess what information about my internet connection is publicly visible by a
 
 ## 🖼️ Screenshot of Shodan Result  
 *(IP address masked for privacy)*  
-![Shodan result](Screenshot.png)
+![Shodan result](screenshot.png)
 
 ---
 
